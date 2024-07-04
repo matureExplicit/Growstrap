@@ -1,7 +1,7 @@
-# Say hello to the brand new and improved Growstrap
+# Growstrap
 
 ## What is Growstrap?
-GrowStrap is an bootstrapper for Growtopia, aiming to enhance the experience of playing Growtopia, including several features to automate tasks and provide additional functionalities.
+Growstrap is an bootstrapper for Growtopia, aiming to enhance the experience of playing Growtopia, including several features to automate tasks and provide additional functionalities.
 
 ## Growstrap includes:
 ### Discord Rich Presence
@@ -9,7 +9,7 @@ Displays the current activity in Growtopia on Discord, including the player's cu
 ### Asset Management
 An improved functionality to replace game assets and completely customize Growtopia as you like.
 ### Automatic Updates
-Monitoring Growtopia and GrowStrap to ensure the latest versions are installed.
+Monitoring Growtopia and Growstrap to ensure the latest versions are installed.
 ### And much more..
 
 # Running a community server
