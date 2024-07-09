@@ -1,5 +1,7 @@
 # Growstrap
 
+# Currently unavailable until 18th july!
+
 ## What is Growstrap?
 Growstrap is an (for now, a non-open source) bootstrapper for Growtopia, aiming to enhance the experience of playing Growtopia, including several features to automate tasks and provide additional functionalities.
 
