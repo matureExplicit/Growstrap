@@ -13,8 +13,7 @@ An improved functionality to replace game assets and completely customize Growto
 ### And much more..
 
 # Running a community server
-We are running a community server in our discord server (link below)![Uploading image.png…]()
-, our community server offers:
+We are running a community server in our discord server (link below), our community server offers:
 ### Sharing Texture Packs
 Sharing custom texture packs and modifications created by the community.
 ### Announcements
